@@ -1,21 +1,12 @@
 <img src="https://user-images.githubusercontent.com/66847119/114256463-c6d2aa00-998f-11eb-86f1-a7edb5c5190e.png"></img>
 <h1 align="center">Hi there 👋, I'm Flor!</h1>
+<p align="center"><a href="https://github.com/flornakasone"><img src="https://img.shields.io/github/followers/flornakasone.svg?label=GitHub&style=social" alt="GitHub"></a></p>
 <h3 align="center">A Fullstack developer trainee from Buenos Aires, Argentina.</h3>
-<p align="center">I'm currently studying Systems Analysis at IFTS18 and training in fullstack development.  Here I will upload the projects that I am working on.</p>
+<p align="center">I'm a student of Systems Analysis at IFTS18 and training in fullstack development. Here I will upload the projects that I am working on.
+</p>
+<p align="center">I’m currently working on creating webpages and learning how to progam and  I’m learning PHP, GIT & REACT</p>
 <h3 align="center"> Glad to see you here! 🤩</h3>
 
-
-<!--
-**Flornakasone/flornakasone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
--->
 <br>
 
 ## - 👩‍💻 What I know:
