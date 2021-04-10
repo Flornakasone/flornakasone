@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Flor!👋
+![Diseño sin título](https://user-images.githubusercontent.com/66847119/114256463-c6d2aa00-998f-11eb-86f1-a7edb5c5190e.png)
 
 <!--
 **Flornakasone/flornakasone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+- :You can find me:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
