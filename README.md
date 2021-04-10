@@ -27,8 +27,8 @@
 ## - 📫 How to reach me:
 
 <p align="left">
-  <a href="flornakasone@gmail.com" target="_blank">	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/flornakasone" target="_blank">
+  <a href="mailto:flornakasone@gmail.com" target="_blank">	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/flornakasone" target="_blank">
    	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/flor.nakasone" target="_blank">
