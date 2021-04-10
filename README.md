@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/66847119/114256463-c6d2aa00-998f-11eb-86f1-a7edb5c5190e.png"></img>
 <h1 align="center">Hi there 👋, I'm Flor!</h1>
 <h3 align="center">A Fullstack developer trainee from Buenos Aires, Argentina.</h3>
+<p align="center">I'm currently studying Systems Analysis at IFTS18 and training in fullstack development.  Here I will upload the projects that I am working on.</p>
 <h3 align="center"> Glad to see you here! 🤩</h3>
 
 
