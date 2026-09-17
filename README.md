@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66847119/114256463-c6d2aa00-998f-11eb-86f1-a7edb5c5190e.png"></img>
+<img src="banner.jpeg" width="100%">
 <h1 align="center">Hola! Soy Flor 👋</h1>
 <h3 align="center">QA Engineer SSr → SDET | Fintech & Core Banking | Buenos Aires, Argentina</h3>
 <p align="center">
